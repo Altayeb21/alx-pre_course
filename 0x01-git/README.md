@@ -1,2 +1,2 @@
 My first readme
-MY FRIST STEP
+README update from github.com
